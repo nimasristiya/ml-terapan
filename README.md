@@ -30,7 +30,8 @@ Solusi yang diusulkan untuk mencapai tujuan proyek ini antara lain adalah dengan
 
   * Algoritma Linear Regression memprediksi nilai y berdasarkan x, dengan tujuan menemukan nilai m dan b yang meminimalkan error[[7]](https://medium.com/@adiptamartulandi/belajar-machine-learning-simple-linear-regression-di-python-e82972695eaf).
 
- ![image](https://github.com/user-attachments/assets/904416e5-eae6-4eda-bad9-9a3103c83073)
+![190682919-4e5931d4-47ba-441d-beeb-4d5f9c9b26fe (1)](https://github.com/user-attachments/assets/d287ac38-57e8-4ec5-a28b-9fbb0144b0f2)
+
 
    Kelebihannya adalah kemampuannya untuk memprediksi jika terdapat hubungan linear antara variabel independen dan dependen, namun kekurangannya adalah hubungan linear ini jarang terjadi dalam kenyataan[[8]](https://caraguna.com/apa-itu-linear-regression-dalam-machine-learning/).
   
